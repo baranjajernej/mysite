@@ -17,9 +17,9 @@ params:
       iconset: fas
       title: E-mail
       url: mailto:mail@example.org
-    - icon: github
-      title: Github
-      url: https://github.com/
+    - icon: linkedin
+      title: Linkedin
+      url: https://linkedin.com
     - icon: twitter
       title: Twitter
       url: https://twitter.com/
