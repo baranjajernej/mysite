@@ -9,8 +9,8 @@ disableKinds:
   - taxonomy
   - taxonomyTerm
 Author:
-  bio: Professional coffee drinker
-  name: TEST SITE TEST
+  bio: Je suis Jernej :) 
+  name: Jernej Baranja
 params:
   links:
     - icon: envelope
