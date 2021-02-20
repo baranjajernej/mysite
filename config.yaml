@@ -1,0 +1,25 @@
+baseURL: https://example.com/
+languageCode: en
+defaultContentLanguage: en
+title: Stip
+theme: stip-hugo
+disableKinds:
+  - page
+  - section
+  - taxonomy
+  - taxonomyTerm
+Author:
+  bio: Professional coffee drinker
+  name: TEST SITE
+params:
+  links:
+    - icon: envelope
+      iconset: fas
+      title: E-mail
+      url: mailto:mail@example.org
+    - icon: github
+      title: Github
+      url: https://github.com/
+    - icon: twitter
+      title: Twitter
+      url: https://twitter.com/
