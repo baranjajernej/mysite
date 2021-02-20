@@ -10,7 +10,7 @@ disableKinds:
   - taxonomyTerm
 Author:
   bio: Professional coffee drinker
-  name: TEST SITE
+  name: TEST SITE TEST
 params:
   links:
     - icon: envelope
