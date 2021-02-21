@@ -16,10 +16,10 @@ params:
     - icon: envelope
       iconset: fas
       title: E-mail
-      url: mailto:mail@example.org
+      url: mailto:jernej.baranja@gov.si
     - icon: linkedin
       title: Linkedin
-      url: https://linkedin.com
+      url: https://www.linkedin.com/in/jernej-baranja-28063962/
     - icon: twitter
       title: Twitter
-      url: https://twitter.com/
+      url: https://twitter.com/jernejbaranja
