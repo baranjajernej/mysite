@@ -10,7 +10,7 @@ disableKinds:
   - taxonomyTerm
 Author:
   bio: Jernej Baranja 
-  name: My site:)
+  name: My site:)    
 params:
   links:
     - icon: envelope
