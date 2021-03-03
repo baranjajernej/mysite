@@ -9,8 +9,8 @@ disableKinds:
   - taxonomy
   - taxonomyTerm
 Author:
-  bio: Je suis Jernej :) 
-  name: Jernej Baranja
+  bio: Jernej Baranja 
+  name: My site :)
 params:
   links:
     - icon: envelope
