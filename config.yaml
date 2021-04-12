@@ -23,3 +23,6 @@ params:
     - icon: twitter
       title: Twitter
       url: https://twitter.com/jernejbaranja
+    - icon: github
+      title: github
+      url: https://github.com/baranjajernej
